@@ -1,0 +1,28 @@
+Demarrage du benchmark
+Etat de Machine :
+Operating System: Windows 11 10.0
+Architecture: amd64
+Available processors (cores): 16
+Free memory (MB): 499
+Maximum memory (MB): 4096
+Total memory available to JVM (MB): 512
+Currently available memory in JVM (MB): 4083
+Temps de récupération des informations de la machine : 21 ms
+
+Parsage des triplets...
+2039195 triplets récupérés en 5680 ms
+
+Parsage des requêtes...
+6230 requêtes récupérées en 678 ms
+
+Mélange des requêtes effectué en 0 ms
+
+Execution des benchmarks avec 6 groupes de taille 1038
+Groupe de taille 1038 exécuté en 330 ms
+Groupe de taille 1038 exécuté en 537 ms
+Groupe de taille 1038 exécuté en 369 ms
+Groupe de taille 1038 exécuté en 125 ms
+Groupe de taille 1038 exécuté en 224 ms
+Groupe de taille 1038 exécuté en 128 ms
+Temps total pour le groupe: 1717 ms
+
